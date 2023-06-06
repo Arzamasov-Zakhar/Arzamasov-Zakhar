@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1 align="center">Hi there, I'm <a href="[https://Arzamasov-Zakhar.ru/](https://github.com/Arzamasov-Zakhar)" target="_blank">Zakhar</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python Developer from Russia 🇷🇺</h3>
 <!--
 **Arzamasov-Zakhar/Arzamasov-Zakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
